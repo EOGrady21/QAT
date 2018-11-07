@@ -34,7 +34,7 @@ for (i in 1:length(files)){
   }
  
   #correct column names to standard
-  names(data) <- names(HDR_NAMES)
+ # names(data) <- names(HDR_NAMES)
   write.csv(data, file = paste0("updated_", files[i]))
   
   #check to make sure there were no columns excluded

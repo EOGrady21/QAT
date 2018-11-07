@@ -1,0 +1,454 @@
+$sample_ID
+$sample_ID[[1]]
+NULL
+
+$sample_ID[[2]]
+[1] "Sample.id"
+
+$sample_ID[[3]]
+[1] "sample_id"
+
+
+$altimeter
+$altimeter[[1]]
+[1] "Altimeter..m."
+
+$altimeter[[2]]
+[1] "AltM"
+
+
+$conductivity
+$conductivity[[1]]
+NULL
+
+$conductivity[[2]]
+[1] "Cond_1"
+
+$conductivity[[3]]
+[1] "Cond_2"
+
+$conductivity[[4]]
+[1] "cond1"
+
+$conductivity[[5]]
+[1] "cond2"
+
+$conductivity[[6]]
+[1] "Primary.Cond..S.m"
+
+$conductivity[[7]]
+[1] "Secondary.Cond..S.m"
+
+$conductivity[[8]]
+[1] "Secondary.fluorescence..Chlorophyll.micro.grams.litre"
+
+$conductivity[[9]]
+[1] "Secondary.fluorescence..Seapoint.Chlorophyll.micro.grams.litre"
+
+$conductivity[[10]]
+[1] "Secondary.Oxygen.ML.L"
+
+$conductivity[[11]]
+[1] "Secondary.Oxygen.Raw"
+
+$conductivity[[12]]
+[1] "Secondary.Salinity"
+
+$conductivity[[13]]
+[1] "Secondary.Sigma.theta"
+
+$conductivity[[14]]
+[1] "Secondary.Temp..1968.Scale"
+
+$conductivity[[15]]
+[1] "Secondary.theta.1968.Scale"
+
+
+$cruise_number
+$cruise_number[[1]]
+NULL
+
+$cruise_number[[2]]
+[1] "cruise"
+
+$cruise_number[[3]]
+[1] "Cruise"
+
+$cruise_number[[4]]
+[1] "Cruise.number"
+
+$cruise_number[[5]]
+[1] "cruise_number"
+
+
+$date
+$date[[1]]
+NULL
+
+$date[[2]]
+[1] "Date"
+
+$date[[3]]
+[1] "date"
+
+
+$event_number
+$event_number[[1]]
+NULL
+
+$event_number[[2]]
+[1] "event"
+
+$event_number[[3]]
+[1] "Event"
+
+
+$file_name
+$file_name[[1]]
+NULL
+
+$file_name[[2]]
+[1] "ctd_file"
+
+$file_name[[3]]
+[1] "CTD_File"
+
+$file_name[[4]]
+[1] "Filename"
+
+$file_name[[5]]
+[1] "filename"
+
+
+$fluorescence
+$fluorescence[[1]]
+NULL
+
+$fluorescence[[2]]
+[1] "Fluor_1"
+
+$fluorescence[[3]]
+[1] "Fluor_2"
+
+$fluorescence[[4]]
+[1] "fluor1"
+
+$fluorescence[[5]]
+[1] "fluor2"
+
+$fluorescence[[6]]
+[1] "Primary.fluorescence..Chlorophyll.micro.grams.litre"
+
+$fluorescence[[7]]
+[1] "Primary.fluorescence..Seapoint.Ultraviolet..CDOM."
+
+$fluorescence[[8]]
+[1] "Secondary.fluorescence..Chlorophyll.micro.grams.litre"
+
+$fluorescence[[9]]
+[1] "Secondary.fluorescence..Seapoint.Chlorophyll.micro.grams.litre"
+
+$fluorescence[[10]]
+[1] "Tertiary.fluorescence..Chlorophyll.micro.grams.litre"
+
+
+$latitude
+$latitude[[1]]
+NULL
+
+$latitude[[2]]
+[1] "lat"
+
+$latitude[[3]]
+[1] "Lat"
+
+$latitude[[4]]
+[1] "Latitude"
+
+$latitude[[5]]
+[1] "latitude"
+
+$latitude[[6]]
+[1] "Latitude.1"
+
+
+$longitude
+$longitude[[1]]
+NULL
+
+$longitude[[2]]
+[1] "lon"
+
+$longitude[[3]]
+[1] "Long"
+
+$longitude[[4]]
+[1] "Longitude"
+
+$longitude[[5]]
+[1] "longitude"
+
+$longitude[[6]]
+[1] "Longitude.1"
+
+
+$oxygen
+$oxygen[[1]]
+NULL
+
+$oxygen[[2]]
+[1] "Primary.Oxygen.ML.L"
+
+$oxygen[[3]]
+[1] "Primary.Oxygen.Raw"
+
+$oxygen[[4]]
+[1] "Secondary.Oxygen.ML.L"
+
+$oxygen[[5]]
+[1] "Secondary.Oxygen.Raw"
+
+
+$ph
+$ph[[1]]
+NULL
+
+$ph[[2]]
+[1] "opt_phase"
+
+$ph[[3]]
+[1] "Optode.Phase"
+
+$ph[[4]]
+[1] "pH"
+
+$ph[[5]]
+[1] "Ph"
+
+$ph[[6]]
+[1] "ph"
+
+$ph[[7]]
+[1] "Primary.fluorescence..Chlorophyll.micro.grams.litre"
+
+$ph[[8]]
+[1] "Secondary.fluorescence..Chlorophyll.micro.grams.litre"
+
+$ph[[9]]
+[1] "Secondary.fluorescence..Seapoint.Chlorophyll.micro.grams.litre"
+
+$ph[[10]]
+[1] "Tertiary.fluorescence..Chlorophyll.micro.grams.litre"
+
+
+$par
+$par[[1]]
+NULL
+
+$par[[2]]
+[1] "PAR"
+
+$par[[3]]
+[1] "Par"
+
+$par[[4]]
+[1] "Spar"
+
+
+$pressure
+$pressure[[1]]
+NULL
+
+$pressure[[2]]
+[1] "Pressure"
+
+$pressure[[3]]
+[1] "pressure"
+
+
+$rosette_position
+$rosette_position[[1]]
+NULL
+
+$rosette_position[[2]]
+[1] "rosette"
+
+$rosette_position[[3]]
+[1] "Rosette.position"
+
+
+$salinity
+$salinity[[1]]
+NULL
+
+$salinity[[2]]
+[1] "Primary.Salinity"
+
+$salinity[[3]]
+[1] "PSAL_2"
+
+$salinity[[4]]
+[1] "Sal00"
+
+$salinity[[5]]
+[1] "sal1"
+
+$salinity[[6]]
+[1] "Sal11"
+
+$salinity[[7]]
+[1] "sal2"
+
+$salinity[[8]]
+[1] "Salinity_1"
+
+$salinity[[9]]
+[1] "Salinity_2"
+
+$salinity[[10]]
+[1] "Secondary.Salinity"
+
+
+$scan
+$scan[[1]]
+NULL
+
+$scan[[2]]
+[1] "Scan"
+
+$scan[[3]]
+[1] "scan"
+
+$scan[[4]]
+[1] "Scan.number"
+
+
+$sigma_theta
+$sigma_theta[[1]]
+NULL
+
+$sigma_theta[[2]]
+[1] "Primary.Sigma.theta"
+
+$sigma_theta[[3]]
+[1] "Secondary.Sigma.theta"
+
+$sigma_theta[[4]]
+[1] "Sigma.é00"
+
+$sigma_theta[[5]]
+[1] "Sigma.é11"
+
+
+$station_number
+$station_number[[1]]
+NULL
+
+$station_number[[2]]
+[1] "station"
+
+$station_number[[3]]
+[1] "Station.number"
+
+
+$temperature
+$temperature[[1]]
+NULL
+
+$temperature[[2]]
+[1] "opt_temp"
+
+$temperature[[3]]
+[1] "Optode.Temp"
+
+$temperature[[4]]
+[1] "Potemp068C"
+
+$temperature[[5]]
+[1] "Potemp168C"
+
+$temperature[[6]]
+[1] "Primary.Temp..1968.Scale"
+
+$temperature[[7]]
+[1] "Secondary.Temp..1968.Scale"
+
+$temperature[[8]]
+[1] "Temp_1"
+
+$temperature[[9]]
+[1] "Temp_2"
+
+$temperature[[10]]
+[1] "TEMP_2"
+
+$temperature[[11]]
+[1] "temp1"
+
+$temperature[[12]]
+[1] "temp2"
+
+
+$theta
+$theta[[1]]
+NULL
+
+$theta[[2]]
+[1] "Primary.Sigma.theta"
+
+$theta[[3]]
+[1] "Primary.theta.1968.Scale"
+
+$theta[[4]]
+[1] "Secondary.Sigma.theta"
+
+$theta[[5]]
+[1] "Secondary.theta.1968.Scale"
+
+$theta[[6]]
+[1] "Theta_1"
+
+$theta[[7]]
+[1] "Theta_2"
+
+$theta[[8]]
+[1] "theta1"
+
+$theta[[9]]
+[1] "theta2"
+
+
+$time
+$time[[1]]
+[1] "Altimeter..m."
+
+$time[[2]]
+NULL
+
+$time[[3]]
+[1] "Elasped.Time..sec."
+
+$time[[4]]
+[1] "Time"
+
+$time[[5]]
+[1] "time"
+
+$time[[6]]
+[1] "TimeS"
+
+
+$trip_number
+$trip_number[[1]]
+NULL
+
+$trip_number[[2]]
+[1] "trip"
+
+$trip_number[[3]]
+[1] "Trip.number"
+
+$trip_number[[4]]
+[1] "trip_number"
+
+

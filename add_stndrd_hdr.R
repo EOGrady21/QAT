@@ -16,13 +16,5 @@ for (i in 1:length(files)){
   }
 
 
-##not working
-sink('HDRS.txt')
-hdr_files <- list.files('HDRS/')
-for (i in 1:length(hdr_files)){
-  a <- read.csv(paste0('HDRS/', hdr_files[i]))
-  names(a)
-}
 
-sink()
 
